@@ -10,10 +10,11 @@
 ## 手順
 
 例: `abc421` を始める場合
+(`https://atcoder.jp/contests/{コンテスト名}` の `{コンテスト名}` の部分)
 
 1. コンテスト用フォルダを作成して移動
     - `cargo compete new abc421 --open`
-    - `cd abc421`
+    - `cd contests/abc421`
 2. コードを書く
 3. サンプルテストを実行
     - `cargo compete test`
